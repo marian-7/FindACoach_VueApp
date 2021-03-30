@@ -6,7 +6,7 @@ App is connected to a Firebase server that will expire in 30 days, security meas
   > password: user1234
   > 
 
-[Live Demo](https://find-coach-vue-app.vercel.app/)
+# [Live Demo](https://find-coach-vue-app.vercel.app/)
   
 
 Visual representation of the app:
@@ -22,4 +22,3 @@ For every coach there is 'View Details' and 'Contact' opstion where you can send
 
 Requests are visible just to coaches when they receive some from other users. To receive requests you need to be registered as a coach.
 ![image](https://user-images.githubusercontent.com/69120028/112987572-285e7180-9163-11eb-8798-303f7b31ec5b.png)
-
