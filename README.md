@@ -4,6 +4,9 @@ App is connected to a Firebase server that will expire in 30 days, security meas
 <br>Test login info:<br>
   > email: user@user.com
   > password: user1234
+  > 
+
+[Live Demo](https://find-coach-vue-app.vercel.app/)
   
 
 Visual representation of the app:
