@@ -1,9 +1,9 @@
 # FindACoach_VueApp
 This is a Vue Web App made for finding coaches specialized in backend, frontend and career growth. Project is inspired by Maximilian Schwarzmüllers Vue course on Udemy.
 App is connected to a Firebase server that will expire in 30 days so it can't be abused.
-<br>Test login info:
-  email: user@user.com
-  password: user1234
+<br>Test login info:<br>
+  > email: user@user.com
+  > password: user1234
   
 
 Visual representation of the app:
